@@ -1,4 +1,4 @@
 # trpl-exercises
-プログラミング言語 Rust, 2nd Editionをだたやっていくだけのリポジトリ
+The Rust Programming Languageをだたやっていくだけのリポジトリ
 
-https://doc.rust-jp.rs/book/second-edition/foreword.html
+https://doc.rust-lang.org/book/
